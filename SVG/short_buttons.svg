@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 426.2 171.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: red;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <circle class="cls-1" cx="110.33" cy="82" r="22.5"/>
+    <circle class="cls-1" cx="231.32" cy="54.04" r="22.5"/>
+    <circle class="cls-1" cx="312.33" cy="54.04" r="22.5"/>
+    <circle class="cls-1" cx="231.32" cy="117.04" r="22.5"/>
+    <circle class="cls-1" cx="312.33" cy="117.04" r="22.5"/>
+    <path class="cls-1" d="M408.28,14.67h-39.27v-5.31c0-4.89-2.35-8.86-7.09-8.86H64.28c-4.73,0-7.09,3.97-7.09,8.86v5.31H17.92C8.3,14.67.5,22.73.5,32.67v119.91c0,9.94,7.8,18,17.42,18h390.36c9.62,0,17.42-8.06,17.42-18V32.67c0-9.94-7.8-18-17.42-18Z"/>
+    <g>
+      <circle class="cls-1" cx="403.02" cy="41.6" r="5.95"/>
+      <circle class="cls-1" cx="403.02" cy="140.81" r="5.95"/>
+    </g>
+    <g>
+      <circle class="cls-1" cx="23.18" cy="41.6" r="5.95"/>
+      <circle class="cls-1" cx="23.18" cy="140.81" r="5.95"/>
+    </g>
+  </g>
+</svg>
